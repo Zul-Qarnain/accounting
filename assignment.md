@@ -1,19 +1,19 @@
-| SL# | Cost Examples                                              | **Manufacturing Costs** |                  |                  | **Non-Manufacturing Costs** |                     | **Behaviour Wise** |      |      |
-|-----|------------------------------------------------------------|----------------------|-------------------|-------------------|-----------------------------|---------------------|--------------------|------|------|
-|     |                                                            | **DM**                | **DL**            | **FOH**           | **Admin OH**                | **MKTOH**             | **FC**              | **VC** | **MC** |
-| 1   | Depreciation on salespersons' cars                        |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
-| 2   | Rent on equipment used in the factory                      |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
-| 3   | Lubricants used for machine maintenance                  |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
-| 4   | Salaries of personnel who work in the finished goods warehouse |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
-| 5   | Soap and paper towels used by factory workers at the end of a shift |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
-| 6   | Factory supervisors' salaries                            |                       | ✓                 |                   |                             |                     | ✓                  |      |      |
-| 7   | Heat, water, and power consumed in the factory           |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
-| 8   | Materials used for boxing products for shipment overseas    |                       |                   |                   |                             | ✓                   |                    | ✓    |      |
-| 9   | Advertising costs                                         |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
-| 10  | Workers' compensation insurance for factory employees      |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
-| 11  | Depreciation on chairs and tables in the factory lunchroom  |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
-| 12  | The wages of the receptionist in the administrative offices |                       |                   |                   | ✓                           |                     | ✓                  |      |      |
-| 13  | Cost of leasing the corporate jet used by the company's executives |                       |                   |                   | ✓                           |                     | ✓                  |      |      |
-| 14  | The cost of renting rooms at a Florida resort for the annual sales conference |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
-| 15  | The cost of packaging the company's product                 | ✓                   |                   |                   |                             |                     |                    | ✓    |      |
+| SL# | Cost Examples               | **Manufacturing Costs** |                  |                  | **Non-Manufacturing Costs** |                     | **Behaviour Wise** |      |      |
+|-----|-----------------------------|----------------------|-------------------|-------------------|-----------------------------|---------------------|--------------------|------|------|
+|     |                             | **DM**                | **DL**            | **FOH**           | **Admin OH**                | **MKTOH**             | **FC**              | **VC** | **MC** |
+| 1   | Sales Cars Depr.            |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
+| 2   | Factory Equip. Rent         |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
+| 3   | Machine Lubricants          |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
+| 4   | Warehouse Salaries          |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
+| 5   | Factory Worker Supplies     |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
+| 6   | Factory Supv. Salaries      |                       | ✓                 |                   |                             |                     | ✓                  |      |      |
+| 7   | Factory Utilities           |                       |                   | ✓                 |                             |                     |                    | ✓    |      |
+| 8   | Overseas Shipping Materials |                       |                   |                   |                             | ✓                   |                    | ✓    |      |
+| 9   | Advertising               |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
+| 10  | Factory Workers' Comp       |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
+| 11  | Lunchroom Depr.            |                       |                   | ✓                 |                             |                     | ✓                  |      |      |
+| 12  | Admin Receptionist Wages  |                       |                   |                   | ✓                           |                     | ✓                  |      |      |
+| 13  | Exec. Jet Lease           |                       |                   |                   | ✓                           |                     | ✓                  |      |      |
+| 14  | Sales Conf. Rooms          |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
+| 15  | Product Packaging         | ✓                   |                   |                   |                             |                     |                    | ✓    |      |
 
