@@ -16,7 +16,4 @@
 | 13  | Cost of leasing the corporate jet used by the company's executives |                       |                   |                   | ✓                           |                     | ✓                  |      |      |
 | 14  | The cost of renting rooms at a Florida resort for the annual sales conference |                       |                   |                   |                             | ✓                   | ✓                  |      |      |
 | 15  | The cost of packaging the company's product                 | ✓                   |                   |                   |                             |                     |                    | ✓    |      |
-* **Fixed Cost (FC):** Costs that remain constant in total regardless of changes in the level of activity within a relevant range (e.g., depreciation, rent, advertising, salaries).
-* **Variable Cost (VC):** Costs that change in total in direct proportion to changes in the level of activity (e.g., direct materials, lubricants, factory utilities, overseas shipping materials).
 
-I sincerely hope this iteration correctly addresses the issues you've identified. Please let me know if there are any further problems.
